@@ -18,12 +18,16 @@ CS 6200 Graduate Introduction to Operating Systems
 
 CS 6310 Software Architecture and Design 
 
-CS 6515 Introduction to Graduate Algorithms 
-
-CS 6300 Software Development Process 
-
-CS 6340 Software Analysis and Testing 
-
 CS 7638 Artificial Intelligence Techniques for Robotics 
 
 CS 7646 Machine Learning for Trading 
+
+CS 7632 Game AI
+
+CS 6603 AI Ethics and Society
+
+CS 6742 Modelling, Simulations & Military Gaming
+
+CS 6795 Introduction to Cognitive Science 
+
+CS 6515 Introduction to Graduate Algorithms 
