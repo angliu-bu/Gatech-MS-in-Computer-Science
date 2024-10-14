@@ -30,9 +30,3 @@ CS 6742 Modeling, Simulations & Military Gaming
 
 CS 6795 Introduction to Cognitive Science 
 
-
-
-
-CS 6795 Introduction to Cognitive Science 
-
-CS 6515 Introduction to Graduate Algorithms 
