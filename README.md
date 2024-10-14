@@ -6,6 +6,8 @@ Are you interested in reading more about these computer science projects? Feel f
 
 Georgia Institute of Technology, Master of Science in Computer Science Courses 
 
+CS 6515 Introduction to Graduate Algorithms 
+
 CS 6400 Database Systems Concepts and Design
 
 CS 6250 Computer Networks 
@@ -27,8 +29,6 @@ CS 6603 AI Ethics and Society
 CS 6742 Modeling, Simulations & Military Gaming
 
 CS 6795 Introduction to Cognitive Science 
-
-CS 6515 Introduction to Graduate Algorithms 
 
 
 
