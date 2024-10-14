@@ -1,8 +1,6 @@
 # GATECH_CS_Master_Courses_Projects
 
-Codes and descriptions of projects for the following courses are included in my private repositories. 
-
-They are available to the potential employers upon request. 
+Codes and descriptions of projects for the following courses are included. 
 
 Are you interested in reading more about these computer science projects? Feel free to contact me, aliu12@bu.edu 
 
@@ -26,7 +24,14 @@ CS 7632 Game AI
 
 CS 6603 AI Ethics and Society
 
-CS 6742 Modelling, Simulations & Military Gaming
+CS 6742 Modeling, Simulations & Military Gaming
+
+CS 6795 Introduction to Cognitive Science 
+
+CS 6515 Introduction to Graduate Algorithms 
+
+
+
 
 CS 6795 Introduction to Cognitive Science 
 
